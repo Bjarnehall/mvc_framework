@@ -1,0 +1,14 @@
+{
+    "name": "ssepheron/mvc_framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonas Bjarnehall"
+        }
+    ],
+    "require": {}
+}
